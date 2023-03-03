@@ -5,7 +5,7 @@ public class Application{
        //Runner object
        Runner runnerVariable = new Runner();  
        //invoke static method  
-        String sample = Class.global_var;
+       String sample = Class.global_var;
        //invoke runner method 
        runnerVariable.changeClassVar(sample);
         
